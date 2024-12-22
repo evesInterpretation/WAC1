@@ -1,2 +1,2 @@
 # Cherun
-[ここで遊べます](https://evesinterpretation.github.io/cherun/)
+[ここで遊べます](https://filein-dev.github.io/cherun/)
